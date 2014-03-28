@@ -10,3 +10,5 @@ Features:
 - large pads for easy soldering
 - reset circuit
 - single-sided (top layer only), less than 20 jumpers
+
+![Image](https://raw.githubusercontent.com/turingbirds/atmega128_devboard/master/atmega128_devboard.png)
